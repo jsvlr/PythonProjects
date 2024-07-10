@@ -30,9 +30,27 @@ This is a Python implementation of the popular 2048 game. The objective of the g
 
    ```bash
    cd path/of/folder/you/put/
-   
-4. Run the game:
+
+3. Ensure you have Python installed (preferably version 3.6 or above).
+
+## Usage
+
+1. Run the game:
 
    ```bash
    python main.py
+
+2. Use the following keys to make move
+   - `a` to move left
+   - `d` to move right
+   - `s` to move down
+   - `w` to move up
+
+3. Combine tiles to reach the target number 2048 (or higher).
+
+## License 
+# This project is licensed under the MIT License. See the LICENSE file for details.
+```vbnet
+Just replace `yourusername` with your actual GitHub username in the installation instructions if you plan to host the repository on GitHub.
+
    
