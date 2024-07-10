@@ -49,7 +49,7 @@ This is a Python implementation of the popular 2048 game. The objective of the g
 3. Combine tiles to reach the target number 2048 (or higher).
 
 ## License 
-# This project is licensed under the MIT License. See the LICENSE file for details.
+#### This project is licensed under the MIT License. See the LICENSE file for details.
 ```vbnet
 Just replace `yourusername` with your actual GitHub username in the installation instructions if you plan to host the repository on GitHub.
 
