@@ -26,5 +26,13 @@ This is a Python implementation of the popular 2048 game. The objective of the g
    ```bash
    git clone https://github.com/yourusername/2048-game.git
 
-2. Navigate to the project directory
-3. Run the game
+2. Navigate to the project directory:
+
+   ```bash
+   cd path/of/folder/you/put/
+   
+4. Run the game:
+
+   ```bash
+   python main.py
+   
