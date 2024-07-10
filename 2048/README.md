@@ -1,6 +1,8 @@
-# 2048 Game
+# 2048 Game 🐍
 
 This is a Python implementation of the popular 2048 game. The objective of the game is to slide numbered tiles on a grid to combine them and create a tile with the number 2048.
+
+![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
 
 ## Table of Contents
 
